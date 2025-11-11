@@ -1,0 +1,20 @@
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# Python / FastAPI / virtual env
+__pycache__/
+*.pyc
+.venv/
+
+# Environment variables (never commit real secrets)
+.env
+.env.local
+.env.*
+
+# OS / IDE files
+.DS_Store
+.vscode/
+.idea/
